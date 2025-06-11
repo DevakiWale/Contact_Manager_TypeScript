@@ -14,4 +14,4 @@ This is a simple **Contact Management System** built using **TypeScript**, **HTM
 
 ---
 
-## 📂 Project Structure
+
